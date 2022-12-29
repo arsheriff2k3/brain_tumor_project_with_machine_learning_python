@@ -7,5 +7,8 @@ There are 3 phase of finding Brain Tumor Finding.
 2.Filteration Techniques
 3.Segmentation Techniques
 
-and we want to create dataset for comparing each other to find brain tumor, dataset given in this repository download and set path of the folder in the code.
-successfully Executed
+and we want to create dataset for comparing each other to find brain tumor, dataset given in below using google drive link download it and set path of the folder in the code.
+successfully Executed.
+
+DataSet Link:
+
