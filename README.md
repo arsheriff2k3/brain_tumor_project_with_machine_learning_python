@@ -1,5 +1,5 @@
 
-Brain tumor finding full project just copy paste like the given order and execute one by one block of code.
+Brain tumor finding project just copy paste like the given order and execute one by one block of code.
 
 There are 3 phase of finding Brain Tumor Finding.
 
@@ -11,4 +11,4 @@ and we want to create dataset for comparing each other to find brain tumor, data
 successfully Executed.
 
 DataSet Link:
-
+https://drive.google.com/drive/folders/1V8wWKcLbfQKsEX79yxRMGGJIrpksirm_?usp=share_link
